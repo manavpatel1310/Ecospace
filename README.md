@@ -32,8 +32,8 @@ At Ecospace, we strive to democratize gardening and sustainable practices, makin
 ### Screen shots
 
 ### Dashboard 
-![Dashboard Screenshot](.\media\I1.png)
-![Dashboard Screenshot](.\media\I2.png)
+![Dashboard Screenshot](.Ecospace/media/I1.png)
+![Dashboard Screenshot](.Ecospace/media/I2.png)
 ### 
 
 ### Installation Instructions
